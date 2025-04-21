@@ -53,9 +53,9 @@
 
 
 ## Output:
-
-![image](https://github.com/user-attachments/assets/f5024ebd-9841-49df-97a0-3d8f30a51012)
 ![image](https://github.com/user-attachments/assets/12521952-f740-4941-9f08-b8ca80ded170)
+![image](https://github.com/user-attachments/assets/f5024ebd-9841-49df-97a0-3d8f30a51012)
+
 
 ### Name:Nitheesh Kumar B
 ### Register Number: 212224230189
